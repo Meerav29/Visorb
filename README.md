@@ -1,5 +1,3 @@
-# Visorb
-
 # 🌍 Orbital Visualizer
 
 A space tech project to simulate and visualize satellite orbits using real-world TLE (Two-Line Element) data. This tool is designed to help users understand orbital mechanics and track satellite trajectories in space.
